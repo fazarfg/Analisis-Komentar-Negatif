@@ -1,4 +1,4 @@
-# Analysis-Komentar-Youtube-Ferri-Irwandi
+# Analysis-Komentar - Negatif -Youtube-
 
 Project ini bertujuan untuk melakukan analisis sentimen pada komentar YouTube menggunakan metode Machine Learning (LSTM).
 
