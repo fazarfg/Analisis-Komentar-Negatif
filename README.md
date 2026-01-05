@@ -18,7 +18,7 @@ Project ini bertujuan untuk melakukan analisis sentimen pada komentar YouTube me
 
 ## Dataset
 
-[![Dataset Google Drive](https://img.shields.io/badge/Dataset-Google%20Drive-yellow)](LINK_GOOGLE_DRIVE_KAMU_DI_SINI)
+[![Dataset Google Drive](https://img.shields.io/badge/Dataset-Google%20Drive-yellow)](https://drive.google.com/file/d/1jPKNRy8iC60gEgCO75soxK5P3dzpcUoq/view?usp=sharing)
 
 Dataset berasal dari komentar YouTube yang telah melalui proses preprocessing:
 
