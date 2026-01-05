@@ -49,4 +49,6 @@ Dataset berasal dari komentar YouTube yang telah melalui proses preprocessing:
 
 ## Author
 
-**Fazar FG**  
+**Wahyu Prayogo**
+**UBANG**
+**Fazar Fasca Gumilang**
